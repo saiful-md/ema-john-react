@@ -1,0 +1,21 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    border-bottom: 1px solid gainsboro;
+    padding: 20px;
+}
+
+.product-info {
+    margin-left: 5px;
+}
+
+.product-info h3 {
+    color: blue;
+}
+
+.product-info button {
+    padding: 8px 30px;
+    background-color: goldenrod;
+    border: 1px solid lightcyan;
+    border-radius: 5px;
+}
